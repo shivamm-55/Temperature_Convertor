@@ -1,6 +1,8 @@
 import tkinter as tk
 import tkinter.ttk as ttk
 
+"""Python Project[Temperature Convertor] using Tkinter by Shivam Mishra """
+
 root = tk.Tk()
 root.title("Temperature Convertor")
 root.geometry("900x510")
